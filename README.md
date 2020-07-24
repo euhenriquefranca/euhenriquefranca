@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 Meu nome é Henrique, sou Desenvolvedor Front-end há poucos meses, me dedico e estudo diariamente com muito foco e empenho para entender mais das tecnologias do meu dia-a-dia e fortalecer as minhas bases.
 
 - 💼 Trabalhando atualmente em projetos pessoais.
-- ⚛ Techs: HTML, CSS, JavaScript, ReactJS, Bootstrap...
+- ⚛ Techs: JavaScript, NodeJS, ReactJS, Bootstrap...
 - 📚 Estudando através do bootcamp da **Rocketseat**, Documentações, MaratonaJS (ReactJS e NodeJS) com **Emerson Broga**, JavScript Raiz com **Programador a bordo** 
