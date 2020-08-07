@@ -29,6 +29,4 @@ Meus pontos fortes se moldam com HTML, CSS, JavaScript e ReacJS. Me dedico e est
 
 Algumas outras tecnologias que possuo conhecimento: HTML5 / CSS, Bootstrap/ JavaScript (ES6+), React.js / Git, Node.js, MongoDB, Docker, Webpack, REST APIs.
 
-Meu nome é Henrique, sou Desenvolvedor Front-end há poucos meses, me dedico e estudo diariamente com muito foco e empenho para entender mais das tecnologias do meu dia-a-dia e fortalecer as minhas bases.
-
 Sinta-se livre para entrar em contato.
