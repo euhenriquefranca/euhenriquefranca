@@ -27,6 +27,6 @@ Sou desenvolvedor Front End com paixão por criar produtos significativos e resp
 
 Meus pontos fortes se moldam com HTML, CSS, JavaScript e ReacJS. Me dedico e estudo diariamente com muito foco e empenho para entender mais das tecnologias e fortalecer minhas bases. Estou em contante aprendizado, criando projetos pessoais e sendo mentorado por amigos desenvolvedores.
 
-Algumas outras tecnologias que possuo conhecimento: HTML5 / CSS, Bootstrap/ JavaScript (ES6+), React.js / Git, Node.js, MongoDB, Docker, Webpack, REST APIs.
+Algumas outras tecnologias que possuo conhecimento: HTML5 / CSS, Bootstrap/ JavaScript (ES6+), React.js / Git, Node.js, MongoDB, Docker, REST APIs.
 
 Sinta-se livre para entrar em contato.
