@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 Atuo na área de Engenharia de Software como desenvolvedor Front-end há um pouco mais de 8 meses.
 Meus pontos fortes se moldam com HTML, CSS, JavaScript e ReacJS | React Native. Me dedico e estudo diariamente com muito foco e empenho para entender mais das tecnologias e fortalecer minhas bases. Estou em constante aprendizado, criando projetos pessoais e trabalhando na Thinkseg.
 
-Algumas outras tecnologias que possuo conhecimento: HTML5 / CSS, Bootstrap/ JavaScript (ES6+), React.js / Git, Node.js, MongoDB, Docker, REST APIs.
+Algumas outras tecnologias que possuo conhecimento: HTML5 / CSS, Bootstrap/ JavaScript (ES6+), ReactJS, React Native/ Context API/ Git, Node.js, MongoDB, Docker, REST APIs.
 
 Sinta-se livre para entrar em contato.
 
