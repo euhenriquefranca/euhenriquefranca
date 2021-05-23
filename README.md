@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/euhenquefranca/)](https://www.linkedin.com/in/euhenquefranca/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:euhenriquefranca@gmail.com)](mailto:euhenriquefranca@gmail.com)
 
-## Olá, tudo bem?
+## Hi, how are you?
 
-Sinta-se livre para entrar em contato.
+Feel free to contact.
 
-Meu E-mail: euhenriquefranca@gmail.com
+My email: euhenriquefranca@gmail.com
