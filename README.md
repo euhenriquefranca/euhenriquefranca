@@ -21,4 +21,4 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=your-github-euhenriquefranca&color=5636D3&style=flat&label=visitors)
+![](https://komarev.com/ghpvc/?username=your-github-euhenriquefranca&color=FC438E&style=flat&label=visitors)
