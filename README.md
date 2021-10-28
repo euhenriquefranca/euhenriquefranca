@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as Frontend Developer [@VAGAS](https://github.com/VAGAS-com)
 - 🚀 I’m learning about ViteJS and Design System
 - 👯 I’m looking to collaborate on Educational and Social impact open source projects
-- 💬 Ask me about `[Git, React, Next, React Native, Javascript]`
+- 💬 Ask me about `[Git, React, Next, React Native, Javascript, Typescript]`
 - 😄 Pronouns: Him/His
 
 <h3 align="left">Connect with me:</h3>
