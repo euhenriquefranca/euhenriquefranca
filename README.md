@@ -1,7 +1,7 @@
 # Hi There, I'm Henrique França <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" height="50"/>
 
 - 🔭 I’m currently working as Frontend Developer [@VAGAS](https://github.com/VAGAS-com)
-- 🚀 I’m learning about Flutter
+- 🚀 I’m learning about `Flutter`
 - 👯 I’m looking to collaborate on Educational and Social impact open source projects
 - 💬 Ask me about `[Git, React, Next, Vite, React Native, Javascript, Typescript]`
 - 😄 Pronouns: Him/His
